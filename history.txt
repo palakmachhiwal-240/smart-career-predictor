@@ -1,0 +1,3 @@
+Skills: python machine learning pandas
+ | Prediction: data scientist
+Skills: html css javascript | Prediction: web developer
